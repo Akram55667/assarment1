@@ -1,0 +1,113 @@
+head{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+
+     
+}
+h1{
+    font-size: 50px;
+}
+.boss{
+    display: flex;
+
+}
+.blank{
+    width: 5px;
+    height: 140px;
+    background-color: chocolate;
+    margin-top: 50px;
+}
+.answer{
+    color: cadetblue;
+}
+.explore{
+    text-decoration: none;
+    background-color: chocolate;
+    background-image: linear-gradient(rgb(241, 168, 31)
+    rgb(10, 10, 221));
+    padding: 10px 20px;
+    border-radius: 5px;
+
+}
+.image1 img{
+    width: 200px;
+    height: auto;
+}
+.center{
+    text-align: center;
+    margin-top: 100px;
+}
+.bayezid{
+    color: crimson;
+    
+}
+.mister{
+    display: flex;
+    justify-content: space-around;
+    padding: auto;
+
+
+}
+.ahad{
+    width: 250px;
+    border: 1px solid gray;
+    box-shadow: 4px 4px 12px gray;
+    border-radius: 5px;
+    background-color: lightgoldenrodyellow;
+
+}
+.emon{
+    width: 250px;
+    border: 1px solid gray;
+    box-shadow: 4px 4px 12px gray;
+    border-radius: 5px;
+    background-color: rgb(38, 75, 124);
+}
+.sobuj{
+    width: 250px;
+    border: 1px solid gray;
+    box-shadow: 4px 4px 12px gray;
+    border-radius: 5px;
+    background-color: rgb(34, 139, 108);
+}
+
+.img-tag img{
+    width: 100px;
+}
+.boss3{
+    display: flex;
+    margin-top:100px;
+ 
+}
+.margin-left{
+    margin-left :60px;
+}
+.margin-right{
+    margin-right: 60px;
+}
+.image2 img{
+    width:400px;
+    height: auto;
+
+}
+.img-add img{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    
+}
+.similar1{
+    text-align:center;
+}
+.similar2{
+    color: salmon;
+}
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
