@@ -82,12 +82,13 @@ h1{
 .boss3{
     display: flex;
     margin-top:100px;
-    background-image: url(images/shapes/shape-1.png);
-    background-repeat: no-repeat;
-  
-  
-
  
+}
+.backgrount-imge img{
+    background-image: url(img/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position-x: left;
+    
 }
  
 .margin-left{
