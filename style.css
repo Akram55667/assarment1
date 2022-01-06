@@ -9,17 +9,15 @@ h1{
 }
 .boss{
     display: flex;
-    
-
-}
  
 }
-.blank{
-    width: 50px;
-    height: 10px; 
-    background-color: coral; 
-   
+.picchi{
+    margin-top: 50px;
+    height: 150px;
+    width: 30px;
+    background-color: red;
 }
+ 
 .answer{
     color: rgb(226, 212, 14);
 }
@@ -58,7 +56,7 @@ h1{
     box-shadow: 4px 4px 12px gray;
     border-radius: 5px;
     background-color: rgb(255, 255, 255);
-    margin-left:100px;
+    margin-left:250px;
 
 }
 .emon{
