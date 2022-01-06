@@ -1,9 +1,7 @@
 head{
     font-family: 'Poppins', sans-serif;
     margin: 0%;
-
-     
-}
+     }
 h1{
     font-size: 50px;
 }
@@ -17,8 +15,7 @@ h1{
     width: 30px;
     background-color: red;
 }
- 
-.answer{
+ .answer{
     color: rgb(226, 212, 14);
 }
 .explore{
@@ -28,7 +25,6 @@ h1{
     rgb(10, 10, 221));
     padding: 10px 20px;
     border-radius: 5px;
-
 }
 .image1 img{
     width: 200px;
@@ -44,11 +40,6 @@ h1{
 }
 .mister{
     display: flex;
-     
-    
-  
-
-
 }
 .ahad{
     width: 250px;
