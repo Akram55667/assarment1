@@ -1,140 +1,143 @@
-
-body{
-    font-family: 'Roboto Condensed', sans-serif;
+head {
+  font-family: "Poppins", sans-serif;
+  margin: 0%;
 }
-head{
-    font-family: 'Poppins', sans-serif;
-    margin: 0%;
-     }
-h1{
-    font-size: 50px;
+h1 {
+  font-size: 50px;
 }
-.boss{
-    display: flex;
- 
+.boss {
+  display: flex;
 }
-.picchi{
-    margin-top: 50px;
-    height: 150px;
-    width: 30px;
-    background-color: red;
+.my-poto img{
+     height: 400px;
+     width: 400px;
 }
- .answer{
-    color: rgb(226, 212, 14);
-}
-.explore{
-    text-decoration: none;
-    background-color: chocolate;
-    background-image: linear-gradient(rgb(241, 168, 31)
-    rgb(10, 10, 221));
-    padding: 10px 20px;
-    border-radius: 5px;
-}
-.image1 img{
-    width: 200px;
-    height: auto;
-}
-.center{
-    text-align: center;
-    margin-top: 100px;
-}
-.bayezid{
-    color: crimson;
-    
-}
-.mister{
-    display: flex;
-}
-.ahad{
-    width: 250px;
-    border: 1px solid gray;
-    box-shadow: 4px 4px 12px gray;
-    border-radius: 5px;
-    background-color: rgb(255, 255, 255);
-    margin-left:250px;
-
-}
-.emon{
-    width: 250px;
-    border: 1px solid gray;
-    box-shadow: 4px 4px 12px rgb(231, 206, 206);
-    border-radius: 5px;
-    background-color: rgb(225, 235, 247);
-    margin-left:60px;
-}
-.sobuj{
-    width: 250px;
-    border: 1px solid gray;
-    box-shadow: 4px 4px 12px gray;
-    border-radius: 5px;
-    background-color: rgb(178, 235, 219);
-    margin-left: 60px;
-}
-
-.img-tag img{
-    width: 100px;
-}
-.boss3{
-    display: flex;
-    margin-top:100px;
- 
-}
-.backgrount-imge img{
-    background-image: url(img/dream-bg.png);
-    background-repeat: no-repeat;
-    background-position-x: left;
-    
+.picchi {
+  margin-top: 50px;
+  height: 150px;
+  width:10px;
+  background-color: red;
 }
  
-.margin-left{
-    margin-left :60px;
-}
-.margin-right{
-    margin-right:60px;
-}
-.image2 img{
-    width:400px;
-    height: auto;
-
-}
-.similar1{
-    text-align:center;
-}
-.similar2{
-    color: salmon;
-}
-.itsme{
-    color: darkmagenta;
-}
-.me{
-    color: darkturquoise;
-}
-.famaly{
-    display: flex;
-    margin-top: 100px;
-}
-.border-3{
-    border: 1px solid darkturquoise;
-    background-color: rgb(248, 248, 248);
-    box-shadow: 10px 10px 30px rgb(219, 188, 188);
-
-    border-radius:5% ;
-}
-
-.mister-footer{
-    text-align: center;
-}
-.love{
-    color: red;
-}
  
+.answer {
+  color: rgb(24, 74, 131);
   
+}
+.explore {
+  text-decoration: none;
+  background-color: chocolate;
+  background-image: linear-gradient(rgb(241, 168, 31) rgb(10, 10, 221));
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+.image1 img {
+  width: 200px;
+  height: auto;
+}
+.center {
+  text-align: center;
+  margin-top: 100px;
+}
+.bayezid {
+  color: crimson;
+}
+.mister {
+  display: flex;
+}
+.ahad {
+  width: 250px;
+   
+  box-shadow: 4px 4px 12px gray;
+  border-radius: 5px;
+  background-color: rgb(255, 255, 255);
+  margin-left: 250px;
+  padding: 10px;
+}
+.emon {
+  width: 250px;
+   
+  box-shadow: 4px 4px 12px rgb(231, 206, 206);
+  border-radius: 5px;
+  background-color: rgb(225, 235, 247);
+  margin-left: 60px;
+  padding: 10px;
+}
+.sobuj {
+  width: 250px;
 
- 
- 
+  box-shadow: 4px 4px 12px gray;
+  border-radius: 5px;
+  background-color: rgb(178, 235, 219);
+  margin-left: 60px;
+  padding: 10px;
+}
 
- 
- 
- 
- 
- 
+.img-tag img {
+  width: 100px;
+}
+.content{
+    margin: 10px;
+}
+.boss3 {
+  display:flex;
+  margin-top: 100px;
+   
+  
+}
+.backgrount-imge img {
+  background-image: url(img/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position-x: left;
+}
+
+.margin-left {
+  margin-left: 60px;
+}
+.margin-right {
+  margin-right: 60px;
+}
+.image2 img {
+  width: 400px;
+  height: auto;
+}
+.similar1 {
+  text-align: center;
+}
+.similar2 {
+  color: salmon;
+}
+.itsme {
+  color: darkmagenta;
+}
+.me {
+  color: darkturquoise;
+}
+.famaly {
+  display: flex;
+  margin-top: 100px;
+}
+.border-3 {
+  border: 1px solid darkturquoise;
+  background-color: rgb(248, 248, 248);
+  box-shadow: 10px 10px 30px rgb(219, 188, 188);
+
+  border-radius: 5%;
+  padding: 30px;
+  margin-left: 10px;
+}
+
+.mister-footer {
+  text-align: center;
+  background-color: black;
+  color: white;
+  margin: 5px;
+  padding:5px;
+  margin-top:20px;
+  
+  
+  
+}
+.love {
+  color: red;
+}
